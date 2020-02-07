@@ -1,4 +1,5 @@
 # Cerulisoft-Website
-A website dedicated to Cerulisoft's games.
 
-[![TheZombieCloud](https://circleci.com/gh/TheZombieCloud/Cerulisoft-Website.svg?style=svg)]
+![TheZombieCloud](https://circleci.com/gh/TheZombieCloud/Cerulisoft-Website.svg?style=svg)
+
+A website dedicated to Cerulisoft's games.
